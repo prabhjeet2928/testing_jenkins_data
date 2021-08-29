@@ -1,4 +1,4 @@
-x = 1
+x = 2
 print(x)
 print('test for jenkins')
-print("first data')
+print("sec data')
